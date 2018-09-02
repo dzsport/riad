@@ -97,5 +97,27 @@
         "champion": "الدوري الإيطالي",
         "channels": "بي ان سبورت 2",
         "linkmatch": ""
+    },
+    {
+        "team": "لاتسيو",
+        "team2": "فروسينوني",
+        "team_image": "http://img.kooora.com/?i=italy2015%2fss+lazio.gif",
+        "team_image2": "http://img.kooora.com/?i=z_kooora%2fclub%2ffrosinone+calcio.png",
+        "result": "لم تبدأ",
+        "time": "19:30",
+        "champion": "الدوري الإيطالي",
+        "channels": "بي ان سبورت 1",
+        "linkmatch": ""
+    },
+    {
+        "team": "كييفو فيرونا",
+        "team2": "إمبولي",
+        "team_image": "http://img.kooora.com/?i=-0-%2fvero.jpg",
+        "team_image2": "http://img.kooora.com/?i=italy2015%2fempole.gif",
+        "result": "لم تبدأ",
+        "time": "19:30",
+        "champion": "الدوري الإيطالي",
+        "channels": "بي ان سبورت ماكس 7 FR",
+        "linkmatch": ""
     }
 ]
