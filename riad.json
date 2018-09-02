@@ -21,8 +21,8 @@
         "champion": "الدوري الإنجليزي",
         "channels": "بي ان سبورت 5",
         "linkmatch": ""
-    }
-]
+   },
+    {
 
         "team": "كارديف سيتي",
         "team2": "آرسنال",
@@ -132,11 +132,8 @@
         "champion": "الدوري الإيطالي",
         "channels": "بي ان سبورت ماكس FR 7",
         "linkmatch": ""
-    }
-]
-[
-    {
-        "team": "تورينو",
+    },
+    {        "team": "تورينو",
         "team2": "سبال",
         "team_image": "http://img.kooora.com/?i=4_safi_only%2fteams%2ftoro2.gif",
         "team_image2": "http://img.kooora.com/?i=la_viola%2fspal.jpg",
