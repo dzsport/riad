@@ -4,8 +4,8 @@
         "team2": "إيطاليا",
         "team_image": "http://o.kooora.com/f/big/pt.png",
         "team_image2": "http://o.kooora.com/f/big/it.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 2",
         "linkmatch": ""
@@ -15,8 +15,8 @@
         "team2": "تركيا",
         "team_image": "http://o.kooora.com/f/big/se.png",
         "team_image2": "http://o.kooora.com/f/big/tr.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 3",
         "linkmatch": ""
@@ -26,8 +26,8 @@
         "team2": "ألبانيا",
         "team_image": "http://o.kooora.com/f/big/ss.png",
         "team_image2": "http://o.kooora.com/f/big/al.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 4",
         "linkmatch": ""
@@ -37,8 +37,8 @@
         "team2": "رومانيا",
         "team_image": "http://o.kooora.com/f/big/sx.png",
         "team_image2": "http://o.kooora.com/f/big/ro.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 5",
         "linkmatch": ""
@@ -48,8 +48,8 @@
         "team2": "ليتوانيا",
         "team_image": "http://o.kooora.com/f/big/mj.png",
         "team_image2": "http://o.kooora.com/f/big/lt.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 6",
         "linkmatch": ""
@@ -59,8 +59,8 @@
         "team2": "كازاخستان",
         "team_image": "http://o.kooora.com/f/big/ad.png",
         "team_image2": "http://o.kooora.com/f/big/kz.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 7",
         "linkmatch": ""
@@ -70,8 +70,8 @@
         "team2": "جزر فاروه",
         "team_image": "http://o.kooora.com/f/big/ko.png",
         "team_image2": "http://o.kooora.com/f/big/fo.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-0",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 9",
         "linkmatch": ""
@@ -81,21 +81,10 @@
         "team2": "أذربيجان",
         "team_image": "http://o.kooora.com/f/big/mt.png",
         "team_image2": "http://o.kooora.com/f/big/az.png",
-        "result": "لم تبدأ",
-        "time": "19:45",
+        "result": "0-1",
+        "time": "جارية حاليا",
         "champion": "دوري الأمم الأوروبية",
         "channels": "بي ان سبورت 5",
-        "linkmatch": ""
-    },
-    {
-        "team": "غامبيا",
-        "team2": "توجو",
-        "team_image": "http://o.kooora.com/f/big/gm.png",
-        "team_image2": "http://o.kooora.com/f/big/tg.png",
-        "result": "لم تبدأ",
-        "time": "17:30",
-        "champion": "كأس أمم إفريقيا 2019",
-        "channels": "لا يوجد",
         "linkmatch": ""
     }
 ]
