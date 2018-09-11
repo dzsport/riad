@@ -1,1 +1,112 @@
-
+[
+    {
+        "team": "إسبانيا",
+        "team2": "كرواتيا",
+        "team_image": "http://o.kooora.com/f/big/es.png",
+        "team_image2": "http://o.kooora.com/f/big/hr.png",
+        "result": "6 - 0",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 2",
+        "linkmatch": "http://www.dzsport8.ga/p/bein-sports-2.html"
+    },
+    {
+        "team": "أيسلندا",
+        "team2": "بلجيكا",
+        "team_image": "http://o.kooora.com/f/big/is.png",
+        "team_image2": "http://o.kooora.com/f/big/be.png",
+        "result": "0 - 2",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 4",
+        "linkmatch": "http://www.dzsport8.ga/p/bein-sports-4.html"
+    },
+    {
+        "team": "البوسنة والهرسك",
+        "team2": "النمسا",
+        "team_image": "http://o.kooora.com/f/big/ba.png",
+        "team_image2": "http://o.kooora.com/f/big/at.png",
+        "result": "0 - 0",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 5",
+        "linkmatch": "http://www.dzsport8.ga/p/bein-sports-5.html"
+    },
+    {
+        "team": "المجر",
+        "team2": "اليونان",
+        "team_image": "http://o.kooora.com/f/big/hu.png",
+        "team_image2": "http://o.kooora.com/f/big/gr.png",
+        "result": "2 - 1",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 7",
+        "linkmatch": "http://www.dzsport8.ga/p/bein-sports-7.html"
+    },
+    {
+        "team": "فنلندا",
+        "team2": "إستونيا",
+        "team_image": "http://o.kooora.com/f/big/fi.png",
+        "team_image2": "http://o.kooora.com/f/big/ee.png",
+        "result": "1 - 0",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 6",
+        "linkmatch": "http://www.dzsport8.ga/p/bein-sports-6.html"
+    },
+    {
+        "team": "سان مارينو",
+        "team2": "لوكسمبرج",
+        "team_image": "http://o.kooora.com/f/big/sm.png",
+        "team_image2": "http://o.kooora.com/f/big/lu.png",
+        "result": "0 - 3",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 9",
+        "linkmatch": ""
+    },
+    {
+        "team": "مولدوفا",
+        "team2": "روسيا البيضاء",
+        "team_image": "http://o.kooora.com/f/big/md.png",
+        "team_image2": "http://o.kooora.com/f/big/by.png",
+        "result": "0 - 0",
+        "time": "جارية حاليا",
+        "champion": "دوري الأمم الأوروبية",
+        "channels": "بي ان سبورت 8",
+        "linkmatch": ""
+    },
+    {
+        "team": "دفاع تاجنانت - الجزائر",
+        "team2": "شباب أهلي برج بوعريريج - الجزائر",
+        "team_image": "http://img.kooora.com/?i=964799%2fa04d49f29a.jpg",
+        "team_image2": "http://img.kooora.com/?i=-vitchmen-%2fcabbba.gif",
+        "result": "3 - 1",
+        "time": "إنتهت",
+        "champion": "الرابطة المحترفة الجزائرية الأولى موبيليس",
+        "channels": "الجزائرية الرابعة",
+        "linkmatch": ""
+    },
+    {
+        "team": "أولمبى المدية - الجزائر",
+        "team2": "مولودية الجزائر - الجزائر",
+        "team_image": "http://img.kooora.com/?i=algeria%2f9125.jpg",
+        "team_image2": "http://img.kooora.com/?i=-vitchmen-%2fmca44.jpg",
+        "result": "1 - 2",
+        "time": "إنتهت",
+        "champion": "الرابطة المحترفة الجزائرية الأولى موبيليس",
+        "channels": "لا يوجد",
+        "linkmatch": ""
+    },
+    {
+        "team": "شبيبة القبائل - الجزائر",
+        "team2": "نادي بارادو - الجزائر",
+        "team_image": "http://img.kooora.com/?i=irfan_bachdim%2f8j0iibh.jpg",
+        "team_image2": "http://img.kooora.com/?i=khkh%2fkjh.jpg",
+        "result": "1 - 0",
+        "time": "إنتهت",
+        "champion": "الرابطة المحترفة الجزائرية الأولى موبيليس",
+        "channels": "الجزائرية الثالثة",
+        "linkmatch": ""
+    }
+]
